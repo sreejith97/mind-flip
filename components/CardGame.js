@@ -3,7 +3,7 @@
 import { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { Loader2, Trophy, Clock, Star, XCircle } from "lucide-react";
-import { Button } from "./ui/cardgame/button";
+import { Button } from "./ui/cardgame/Button";
 import { Input } from "./ui/cardgame/Input";
 import { Card } from "./ui/cardgame/Card";
 import { CardContent } from "./ui/cardgame/CardContent";
